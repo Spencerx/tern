@@ -2,7 +2,7 @@
   "name": "tern",
   "license": "MIT",
   "version": "0.24.3",
-  "author": "Marijn Haverbeke <marijnh@gmail.com>",
+  "author": "Marijn Haverbeke <marijn@haverbeke.berlin>",
   "description": "A JavaScript code analyzer for deep, cross-editor language support",
   "main": "lib/tern.js",
   "bin": "./bin/tern",

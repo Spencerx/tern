@@ -42,7 +42,7 @@ subjective reasons will not be accepted.
 By contributing code to Tern you
 
  - agree to license the contributed code under Tern's [MIT
-   license](http://ternjs.net/LICENSE).
+   license](http://ternjs.github.io/LICENSE).
 
  - confirm that you have the right to contribute and license the code
    in question. (Either you hold all rights on the code, or the rights

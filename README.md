@@ -21,11 +21,11 @@ For further documentation, see the [project page][1] and the
 [manual][3]. To report issues, use the
 [issue tracker](https://github.com/ternjs/tern/issues).
 
-[1]: http://ternjs.net
+[1]: http://ternjs.github.io
 [2]: http://www.indiegogo.com/projects/tern-intelligent-javascript-editing
-[3]: http://ternjs.net/doc/manual.html
+[3]: http://ternjs.github.io/doc/manual.html
 
-[emacs]: http://ternjs.net/doc/manual.html#emacs
+[emacs]: http://ternjs.github.io/doc/manual.html#emacs
 [ec]: https://github.com/angelozerr/tern.java
 [vim]: https://github.com/ternjs/tern_for_vim
 [st]: https://github.com/ternjs/tern_for_sublime
